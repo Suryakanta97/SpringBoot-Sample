@@ -1,7 +1,3 @@
-= Spring Boot Samples
-
-The following sample applications are provided:
-
 # Donation
 
 If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
@@ -10,6 +6,9 @@ If you have found my softwares to be of any use to you, do consider helping me p
 |:-------------------------------------------:|:-------------------------------------------------------------:|
 | ₹ (INR)  | <a href="https://www.instamojo.com/@suryakanta97/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
 
+= Spring Boot Samples
+
+The following sample applications are provided:
 
 |===
 | Sample | Description
