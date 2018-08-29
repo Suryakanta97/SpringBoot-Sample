@@ -1,11 +1,3 @@
-# Donation
-
-If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
-
-| PayPal | <a href="https://paypal.me/suryakanta97" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
-|:-------------------------------------------:|:-------------------------------------------------------------:|
-| ₹ (INR)  | <a href="https://www.instamojo.com/@suryakanta97/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
-
 = Spring Boot Samples
 
 The following sample applications are provided:
@@ -238,3 +230,16 @@ The following sample applications are provided:
 | link:spring-boot-sample-xml[spring-boot-sample-xml]
 | Example show how Spring Boot can be mixed with traditional XML configuration (we
   generally recommend using Java `@Configuration` whenever possible
+  
+  
+  
+  
+  
+# Donation
+
+If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
+
+| PayPal | <a href="https://paypal.me/suryakanta97" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
+|:-------------------------------------------:|:-------------------------------------------------------------:|
+| ₹ (INR)  | <a href="https://www.instamojo.com/@suryakanta97/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
+  
